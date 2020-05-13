@@ -5,7 +5,6 @@ H = 2160;
 
 function preload() {
 
-    cato = loadImage('cato.png');
     corpo1 = loadModel('pvc.obj');
 
 }
